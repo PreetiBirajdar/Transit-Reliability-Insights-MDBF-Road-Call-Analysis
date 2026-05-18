@@ -46,7 +46,7 @@ MDBF and Road Calls are useful together because they help assess fleet reliabili
 This allows transit agencies to identify underperforming areas, track reliability trends, and support maintenance planning decisions. 
 
 ### Reliability Benchmark
-For this analysis, **For this analysis, MDBF above 6,000 miles is used as a strong reliability benchmark.**, while values below this level suggest a need for closer review of fleet performance and maintenance conditions.
+For this analysis, MDBF above 6,000 miles is used as a strong reliability benchmark, while values below this level suggest a need for closer review of fleet performance and maintenance conditions.
 
 A higher MDBF means vehicles are traveling farther between failure-related road calls, which generally reflects better mechanical reliability.
 
@@ -95,5 +95,17 @@ Transit agencies need to understand where vehicle reliability is weakest and whe
 - **Conduct borough-level root cause analysis** for periods showing declining MDBF or elevated road calls to identify whether issues are linked to fleet age, maintenance frequency, or operational demand.
 
 - **Develop a targeted preventive maintenance strategy** for lower-performing boroughs to reduce unexpected failures and improve service dependability.
+
+## Business Impact
+
+- **Supports data-driven maintenance prioritization** by identifying boroughs with weaker reliability performance and higher failure risk.
+
+- **Helps transit leaders focus resources more effectively** by highlighting where operational review, preventive maintenance, or deeper root-cause analysis may be needed.
+
+- **Improves performance monitoring** through a consolidated view of MDBF, Road Calls, and mileage-based reliability trends across boroughs.
+
+- **Enables benchmarking across locations**, using stronger-performing boroughs as reference points for reliability improvement discussions.
+
+- **Strengthens strategic decision-making** by transforming raw operational metrics into clear insights that can guide reliability planning, service quality review, and maintenance strategy.
 
 - **Continue using dashboard-based KPI tracking** to support management decisions, trend monitoring, and data-driven maintenance prioritization over time.
