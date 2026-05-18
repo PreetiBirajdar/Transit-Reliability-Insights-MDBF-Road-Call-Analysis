@@ -21,7 +21,7 @@ For example, if buses travel **1,000,000 miles** and record **200 road calls**:
 
 **MDBF = 1,000,000 ÷ 200 = 5,000 miles between failures**
 
-This means the fleet experiences one failure-related road call approximately every **5,000 miles** of operation. :contentReference[oaicite:0]{index=0}
+This means the fleet experiences one failure-related road call approximately every **5,000 miles** of operation. 
 
 ---
 
@@ -33,7 +33,7 @@ Road calls are important because they can indicate:
 - Potential service disruptions
 - Areas where preventive maintenance may need improvement
 
-In reliability analysis, road calls are used as the failure count when calculating MDBF. :contentReference[oaicite:1]{index=1}
+In reliability analysis, road calls are used as the failure count when calculating MDBF. 
 
 ---
 
@@ -43,7 +43,12 @@ MDBF and Road Calls are useful together because they help assess fleet reliabili
 - **Road Calls** show the number of failure-related incidents.
 - **MDBF** adjusts those failures for service mileage, making it easier to compare reliability across boroughs or time periods.
 
-This allows transit agencies to identify underperforming areas, track reliability trends, and support maintenance planning decisions. :contentReference[oaicite:2]{index=2}
+This allows transit agencies to identify underperforming areas, track reliability trends, and support maintenance planning decisions. 
+
+### Reliability Benchmark
+For this analysis, **MDBF above 6,000 miles is treated as a strong reliability indicator**, while values below this level suggest a need for closer review of fleet performance and maintenance conditions.
+
+A higher MDBF means vehicles are traveling farther between failure-related road calls, which generally reflects better mechanical reliability.
 
 ## Business Problem
 Transit agencies need to understand where vehicle reliability is weakest and where operational failures occur more frequently. Lower MDBF and higher road call counts may indicate areas that require closer maintenance review and service improvement efforts.
