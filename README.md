@@ -46,7 +46,7 @@ MDBF and Road Calls are useful together because they help assess fleet reliabili
 This allows transit agencies to identify underperforming areas, track reliability trends, and support maintenance planning decisions. 
 
 ### Reliability Benchmark
-For this analysis, **MDBF above 6,000 miles is treated as a strong reliability indicator**, while values below this level suggest a need for closer review of fleet performance and maintenance conditions.
+For this analysis, **For this analysis, MDBF above 6,000 miles is used as a strong reliability benchmark.**, while values below this level suggest a need for closer review of fleet performance and maintenance conditions.
 
 A higher MDBF means vehicles are traveling farther between failure-related road calls, which generally reflects better mechanical reliability.
 
@@ -67,7 +67,7 @@ Transit agencies need to understand where vehicle reliability is weakest and whe
 ## Dashboard Preview
 <img width="1724" height="718" alt="image" src="https://github.com/user-attachments/assets/af0962e5-fc80-4f9c-935b-d215e0e096a2" />
 
-Click to view the dashboard: https://public.tableau.com/app/profile/preetii.birajdar/viz/TransitReliabilityInsightsMDBFRoadCallAnalysis/Dashboard1
+🔗 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/preetii.birajdar/viz/TransitReliabilityInsightsMDBFRoadCallAnalysis/Dashboard1)
 
 ## Key Insights
 
