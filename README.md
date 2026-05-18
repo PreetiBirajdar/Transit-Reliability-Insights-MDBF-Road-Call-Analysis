@@ -2,6 +2,48 @@
 
 ## Project Overview
 This case study analyzes transit reliability across New York City boroughs using Mean Distance Between Failures (MDBF) and Road Call metrics. The objective is to identify borough-level performance gaps, compare reliability trends, and support maintenance-focused decision-making.
+## Understanding the Key Metrics
+
+### What is MDBF?
+**MDBF stands for Mean Distance Between Failures.**  
+It is a transit reliability metric that shows how many miles a bus fleet travels, on average, before experiencing a mechanical failure that results in a road call.
+
+A **higher MDBF** generally indicates:
+- Better vehicle reliability
+- Fewer mechanical failures relative to miles operated
+- Stronger maintenance performance
+
+### How is MDBF calculated?
+
+**MDBF = Total Miles Operated ÷ Total Road Calls**
+
+For example, if buses travel **1,000,000 miles** and record **200 road calls**:
+
+**MDBF = 1,000,000 ÷ 200 = 5,000 miles between failures**
+
+This means the fleet experiences one failure-related road call approximately every **5,000 miles** of operation. :contentReference[oaicite:0]{index=0}
+
+---
+
+### What is a Road Call?
+A **Road Call** refers to a service-related incident caused by a mechanical problem that occurs while a bus is operating in service and requires attention or intervention.
+
+Road calls are important because they can indicate:
+- Vehicle breakdowns or mechanical issues
+- Potential service disruptions
+- Areas where preventive maintenance may need improvement
+
+In reliability analysis, road calls are used as the failure count when calculating MDBF. :contentReference[oaicite:1]{index=1}
+
+---
+
+### Why these metrics matter
+MDBF and Road Calls are useful together because they help assess fleet reliability from two perspectives:
+
+- **Road Calls** show the number of failure-related incidents.
+- **MDBF** adjusts those failures for service mileage, making it easier to compare reliability across boroughs or time periods.
+
+This allows transit agencies to identify underperforming areas, track reliability trends, and support maintenance planning decisions. :contentReference[oaicite:2]{index=2}
 
 ## Business Problem
 Transit agencies need to understand where vehicle reliability is weakest and where operational failures occur more frequently. Lower MDBF and higher road call counts may indicate areas that require closer maintenance review and service improvement efforts.
