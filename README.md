@@ -18,7 +18,8 @@ Transit agencies need to understand where vehicle reliability is weakest and whe
 - Excel
 
 ## Dashboard Preview
-Dashboard image will be added here.
+<img width="1305" height="632" alt="image" src="https://github.com/user-attachments/assets/79fe55fe-1439-4486-9d1e-d0d480bb6085" />
+Click to view the dashboard: https://public.tableau.com/app/profile/preetii.birajdar/viz/TransitReliabilityInsightsMDBFRoadCallAnalysis/Dashboard1
 
 ## Key Insights
 Insights will be added after dashboard review.
